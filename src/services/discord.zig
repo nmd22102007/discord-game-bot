@@ -1,0 +1,5 @@
+init()
+connect()
+registerCommands()
+run()
+deinit()
